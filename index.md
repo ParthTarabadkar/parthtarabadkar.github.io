@@ -1,5 +1,10 @@
+---
+layout: default
+title: Home
+---
+
 # Hi, I’m Parth 👋
 
-This is my portfolio website.
+Backend engineer focused on scalable systems and APIs.
 
 More coming soon.
